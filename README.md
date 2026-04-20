@@ -7,3 +7,6 @@ If you wanna hear more about cavAI that predicts cavity risk-- check out the pit
 Our primary target market is cost-sensitive adults in the U.S. who delay or skip routine dental visits due to financial concerns or uncertainty about whether a visit is truly necessary. 
 
 This includes uninsured and underinsured individuals, as well as those on high-deductible dental plans who want to make informed decisions about when to seek care. Secondarily, we target health-conscious adults who already prioritize preventive care and are looking for data-driven tools to optimize their dental health between visits.
+
+# Contact Information
+Co-founders of CaviAI is Joanna Rhim and Rachel Chung. Please email to jiyunrhim@g.ucla.edu or racheliacc@g.ucla.edu for more information or inquiries. 
