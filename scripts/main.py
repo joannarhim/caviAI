@@ -3,7 +3,6 @@ CaviAI - XGBoost Cavity Risk Model
 Predicts personalized cavity risk score and recommended checkup timing.
 """
 
-
 def save_model(model, path: str = "caviai_model.joblib"):
     joblib.dump(model, path)
     print(f"Model saved to {path}")
