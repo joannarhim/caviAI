@@ -38,9 +38,8 @@ def train(df: pd.DataFrame, target_col: str = "cavity_within_12mo"):
     return final_model
  
  
-# ─────────────────────────────────────────────
-# 4. RISK SCORING & CHECKUP TIMING
-# ─────────────────────────────────────────────
+
+# RISK SCORING & CHECKUP TIMING
  
 RISK_BANDS = [
     (0.00, 0.25, "Low",      18, "green"),
@@ -108,9 +107,7 @@ def _build_message(band: str, months: int, drivers: list) -> str:
     )
  
  
-# ─────────────────────────────────────────────
-# 5. CALIBRATION PLOT
-# ─────────────────────────────────────────────
+# CALIBRATION PLOT
  
 def plot_calibration(model, X_val, y_val, save_path: str = "calibration.png"):
     """
